@@ -1,3 +1,3 @@
 # kokoa clone 2024 udate
 
-CSS got so much better!
+HTML $ CSS are so much fun!
